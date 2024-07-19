@@ -27,6 +27,7 @@ This project is an Android application that implements a Connect 3 game. The app
 - **LiveData**: For observable data holder class.
 - **ViewModel**: Manages UI-related data in a lifecycle-conscious way.
 - **Animations**: For token movements and transitions.
+- **Lottie Files**: For complex animations.
 
 ## Requirements
 - **Android SDK**: API level 26 to 33
