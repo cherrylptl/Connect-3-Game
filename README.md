@@ -3,12 +3,16 @@
 This project is an Android application that implements a Connect 3 game. The app includes a splash screen, a welcome page, and the game itself, following the Model-View-ViewModel (MVVM) architecture.
 
 ## Table of Contents
+- [Screenshots](#screenshots)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
+
+## Screenshots
+
+![Screenshots](https://i.postimg.cc/xCCKZms6/Screen-Shot.png)
 
 ## Features
 - **Splash Screen**: A white background with text/logo displayed for 3 seconds.
@@ -50,7 +54,5 @@ This project is an Android application that implements a Connect 3 game. The app
 5. Play the Connect 3 game on the 3x3 grid.
 6. After the game ends, choose to play again or quit.
 
-## Screenshots
 
-![Screenshots](https://i.postimg.cc/xCCKZms6/Screen-Shot.png)
 
