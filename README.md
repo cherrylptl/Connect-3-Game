@@ -50,3 +50,7 @@ This project is an Android application that implements a Connect 3 game. The app
 5. Play the Connect 3 game on the 3x3 grid.
 6. After the game ends, choose to play again or quit.
 
+## Screenshots
+
+![Screenshots](https://i.postimg.cc/xCCKZms6/Screen-Shot.png)
+
