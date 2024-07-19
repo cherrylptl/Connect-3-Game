@@ -1,4 +1,13 @@
 <resources>
     <string name="app_name">Connect 3 Game</string>
-    <string name="welcome_message">WelCome to\nConnect 3</string>
+    <string name="welcome_message">Welcome to\nConnect 3 Game</string>
+    <string name="playerOne">Player One</string>
+    <string name="playerTwo">Player Two</string>
+    <string name="title">ENTER\n PLAYERS NAMES</string>
+    <string name="enter_player_one">Enter Player One Name</string>
+    <string name="enter_player_two">Enter Player Two Name</string>
+    <string name="start">Start Game</string>
+    <string name="quit">Quit\nGame</string>
+    <string name="start_again">Start\nAgain</string>
+    <string name="player_turn">Player X Turn</string>
 </resources>
