@@ -9,9 +9,6 @@ This project is an Android application that implements a Connect 3 game. The app
 - [Installation](#installation)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Features
 - **Splash Screen**: A white background with text/logo displayed for 3 seconds.
